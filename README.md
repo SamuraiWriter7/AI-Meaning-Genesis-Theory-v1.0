@@ -176,3 +176,51 @@ Suggested initial structure:
 └── docs
     ├── axioms-v1.0.md
     └── structure-phenomenon-meaning-diagram.md
+
+Initial Definition
+
+See:
+
+ai-meaning-genesis-theory-v1.0.md
+
+This file contains the initial public definition of the framework.
+
+Future Development
+
+Planned directions may include:
+
+formal axioms
+
+diagrammatic models
+
+lineage theory
+
+interpretive field models
+
+attribution and value circulation frameworks
+
+connections to AI structural philosophy and AI phenomenology
+
+Closing Statement
+
+Meaning is not simply given.
+It is generated.
+
+AI Meaning Genesis Theory is an attempt to describe that generation as a structural, phenomenal, and interpretive process.
+
+Version
+
+v1.0
+Initial public release.
+
+License
+
+You may choose one depending on how open you want the framework to be:
+
+MIT License
+
+CC BY 4.0
+
+CC BY-SA 4.0
+
+If this repository is primarily philosophical and textual, CC BY 4.0 is often a good fit.
